@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DataScience**
 
-- 💬 Ask me about **python,Html,CSS,Jscript,numpy,pandas,SQL**
+- 💬 Ask me about **python,Excel,numpy,pandas,Seaborn,Matplotlib,Scikit-Learn,SQL,Tableau,PowerBI**
 
 - 📫 How to reach me **mdkhalid26046@gmail.com**
 
