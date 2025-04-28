@@ -19,7 +19,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" alt="Excel" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
- <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src=" <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>" alt="Numpy" width="40" height="40"/>
+ <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src=" <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <imgsrc="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>" alt="Numpy" width="40" height="40"/></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="![image](https://github.com/user-attachments/assets/07bfbf7c-b73a-419b-a4d8-a55c4cfbd6c5)
 " alt="Matplotlib" width="40" height="40"/> </a>
